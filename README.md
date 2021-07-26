@@ -23,3 +23,10 @@ Platzi Curso Practico de JavaScript
 - Segundo paso: Implementar las fórmulas en JavaScript
 - Tercer Paso: Crear funciones
 - Cuarto Paso: Integrar JavaScript con HTML
+
+## Taller #4 Análisis salarial
+
+- Primer paso: definir las fórmulas
+- Segundo paso: Implementar las fórmulas en JavaScript
+- Tercer Paso: Crear funciones
+- Cuarto Paso: Integrar JavaScript con HTML
